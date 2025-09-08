@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Miminal (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Miminal (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
